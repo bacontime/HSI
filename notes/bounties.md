@@ -8,8 +8,8 @@ Dire Beast
 : A large boat-sized creature
     has been seen roaming around the island,
     endangering our brave adventurers.
-    Discover it’s lair and report back.   
-    **DO NOT ENGAGE!** Seen in HS03.  
+    Discover it’s lair and report back.
+    **DO NOT ENGAGE!** Seen near the northern end of the island.
     *Reward: 250 ¤*  
     *First come first served.*
 
@@ -18,7 +18,7 @@ Svarku Envoy
 : Martel relations with the
     one known as “Svarku” are on rocky
     ground. We seek to stabilize them. Deliver
-    a gift to him and earn his favor.  
+    a gift to him and earn his favor. 
     *Reward: 500 ¤*
     *Gift provided: A beautiful golden necklace with a large ruby.*
  
@@ -30,7 +30,7 @@ Hex Mappings
     
 Gambling House
 : Rumors of a gambling
-    house in HS 21? 22?. Find this place, and bring
+    house near the southern coast of the island. Find this place, and bring
     back tokens for us to examine. Perhaps they
     can be counterfeited?
     *Reward: 10 ¤ per token recovered.*
