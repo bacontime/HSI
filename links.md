@@ -3,6 +3,7 @@ title: Links
 ---
 
 
+- [Lightweight Roll20 alternative](https://www.owlbear.rodeo/)
 - David Schirduan's Resources
     - [HSI Stats for OSR Games](https://www.technicalgrimoire.com/files/HotSpringsReference.pdf)
         - Has stats, is the source of some of the diagetic notes, has missions, etc. 
