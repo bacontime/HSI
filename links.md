@@ -15,6 +15,7 @@ title: Links
     - [Weather Flower](https://goblinshenchman.wordpress.com/2019/06/03/hex-power-flower-weather/)
     - [Cairn, which is a fantasy Hack of Into the Odd](https://cairnrpg.com/cairn-srd.html)
     - [Simplified ItO resource rules, "expedition resources"](https://blog.thesconesalone.com/2018/07/a-simple-resource-management-system-for.html)
+- [Skerple's Medieval Price List](https://coinsandscrolls.blogspot.com/2017/09/osr-medieval-price-list.html)
 
 
 
