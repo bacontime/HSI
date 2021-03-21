@@ -30,6 +30,7 @@ Crossbow (d8 damage, Ranged, Bulky) | 50¤
 
 
 ## Expedition Resources
+
 Item | Cost
 ---|---
 Lantern | 3¤
